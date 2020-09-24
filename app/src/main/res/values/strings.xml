@@ -1,0 +1,73 @@
+<resources>
+
+    <!--    string da tela principal-->
+    <string name="app_name">appCommerceDoceria</string>
+    <string name="title_categorias_populares">Categorias Populares</string>
+    <string name="title_produtos_recentes">Produtos Recentes</string>
+    <string name="title_activity_product_detal">ProductDetalActivity</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="a_ai_c_nutela">Açai C/Nutela</string>
+    <string name="a_ai_campe_o">Açai campeão</string>
+
+    <!--Menu Drawer-->
+    <string name="menu_drawer_home">Home</string>
+    <string name="menu_drawer_categorias">Categorias</string>
+    <string name="menu_drawer_minhas_compras">Minhas Compras</string>
+    <string name="menu_drawer_meu_carrinho">Meu Carrinho</string>
+    <string name="menu_drawer_sair">Sair</string>
+    <string name="toggle_open">open</string>
+    <string name="toggle_close">close</string>
+
+    <!--Cadstro de usuário-->
+    <string name="minha_conta">Minha Conta</string>
+    <string name="user_register_cadastrar">CADASTRAR</string>
+    <string name="user_register_senha">Senha</string>
+    <string name="user_register_email">Email</string>
+    <string name="user_register_nome">Nome</string>
+    <string name="user_register_title">Cadastro de usuario</string>
+
+    <!--Login de usuário-->
+    <string name="user_login_esqueceu_sua_senha">Esqueceu sua senha?</string>
+    <string name="user_login_entrar">ENTRAR</string>
+    <string name="user_login_nao_o_tem_cadastro">Nâo tem Cadastro?</string>
+    <string name="user_login_cadastre_se_aqui">CADASTRE-SE AQUI</string>
+    <string name="user_login_title">Login</string>
+
+    <string-array name="states">
+        <item>Acre (AC)</item>
+        <item>Alagoas (AL)</item>
+        <item>Amapá (AP)</item>
+        <item>Amazonas (AM)</item>
+        <item>Bahia (BA)</item>
+        <item>Ceará (CE)</item>
+        <item>Distrito Federal (DF)</item>
+        <item>Espírito Santo (ES)</item>
+        <item>Goiás (GO)</item>
+        <item>Maranhão (MA)</item>
+        <item>Mato Grosso (MT)</item>
+        <item>Mato Grosso do Sul (MS)</item>
+        <item>Minas Gerais (MG)</item>
+        <item>Pará (PA)</item>
+        <item>Paraíba (PB)</item>
+        <item>Paraná (PR)</item>
+        <item>Pernambuco (PE)</item>
+        <item>Piauí (PI)</item>
+        <item>Rio de Janeiro (RJ)</item>
+        <item>Rio Grande do Norte (RN)</item>
+        <item>Rio Grande do Sul (RS)</item>
+        <item>Rondônia (RO)</item>
+        <item>Roraima (RR)</item>
+        <item>Santa Catarina (SC)</item>
+        <item>São Paulo (SP)</item>
+        <item>Sergipe (SE)</item>
+        <item>Tocantins (TO)</item>
+    </string-array>
+</resources>
